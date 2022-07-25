@@ -1,2 +1,1 @@
-# google-tabs
-Hypertabs x Google Chrome
+# Google Tabs
