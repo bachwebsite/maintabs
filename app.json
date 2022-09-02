@@ -1,7 +1,7 @@
 {
     "name": "Ultraviolet App",
-    "description": "Node.js Ultraviolet instance",
-    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
-    "keywords": ["tomp", "ultraviolet"]
+    "description": "Node.js Intertellar instance",
+    "repository": "https://github.com/interstellarnetwork/google-tabs",
+    "logo": "https://raw.githubusercontent.com/interstellarnetwork/Google-Tabs/main/!.png",
+    "keywords": ["google tabs", "interstellarnetwork"]
 }
