@@ -8,6 +8,7 @@
 ## Quick Deployments
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/InterstellarNetwork/Google-Tabs)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/InterstellarNetwork/Google-Tabs)
+<a target="_blank" href="https://glitch.com/edit/#!/import/github/interstellarnetwork/Google-Tabs"><img alt="Remix on Glitch" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg"></a>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
