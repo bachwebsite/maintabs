@@ -18,5 +18,5 @@ server.on('upgrade', (req, socket, head) => {
 	socket.end();
 });
 
-server.listen(process.env.PORT || 8080);
-console.log('Running on: localhost:' + (process.env.PORT || 8080));
+server.listen(process.env.PORT);
+console.log('Running on: localhost:' + (process.env.PORT));
